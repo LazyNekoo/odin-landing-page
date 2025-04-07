@@ -1,0 +1,1 @@
+This is a landing page currently in progress based on The Odin Project. Enjoy watching my endless struggle(and joy too!)
